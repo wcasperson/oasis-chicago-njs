@@ -5,6 +5,7 @@
         minYear = 0,
         maxYear = 0,
         playStopped = true,
+        playStopped2 = true,
         activeAreaType,
         socioeconomicData,
         multiselectReady = false;
